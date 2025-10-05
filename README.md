@@ -17,14 +17,12 @@ This repository contains a small, self-contained To Do application built with Re
 ## Screenshots
 Replace the placeholder images in `assets/screenshots/` with actual screenshots from your device/simulator.
 
-Home / List view
-![Home screen](assets/screenshots/home.svg)
+Home / List view and Advanced add modal shown side-by-side below. The third image is centered on its own row.
 
-Advanced add modal (date/time chooser)
-![Advanced modal](assets/screenshots/modal.svg)
-
-Todo item details (countdown, subtasks, category)
-![Todo item](assets/screenshots/todo_item.svg)
+<div align="center">
+	<img src="assets/screenshots/111.png" alt="Home screen" width="45%" style="margin: 0 2.5%;" />
+	<img src="assets/screenshots/222.png" alt="Advanced modal" width="45%" style="margin: 0 2.5%;" />
+</div>
 
 ## Quick start
 Requirements: Node >= 20, npm, React Native CLI, Xcode (macOS) or Android Studio.
